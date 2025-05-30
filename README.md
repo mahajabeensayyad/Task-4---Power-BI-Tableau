@@ -31,4 +31,4 @@ The dataset contains the following key fields:
   - Actual sales by Ship-Stare - Used Map
 
  ## 📸 Dashboard Preview
-![Screenshots/Superstores Co Sales Report.jpg](https://github.com/mahajabeensayyad/Task-2/blob/main/Superstores%20Co%20Sales%20Report.jpg)
+![Screenshots/Superstores Co Sales Report.jpg](https://github.com/mahajabeensayyad/Task-4---Power-BI-Tableau/blob/main/Amazon%20Sales%20Report.jpg)
